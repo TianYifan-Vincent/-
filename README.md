@@ -1,2 +1,1 @@
-# -
-PSA、RR算法 STL实现
+# PSA、RR算法 STL实现
